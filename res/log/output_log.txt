@@ -1,0 +1,2 @@
+INFO: Log started
+INFO: Log stopped
